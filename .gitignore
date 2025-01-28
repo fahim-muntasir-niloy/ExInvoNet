@@ -1,2 +1,6 @@
 cnn_model
 model
+
+/wandb
+
+/__pycache__
